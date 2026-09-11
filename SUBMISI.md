@@ -3,7 +3,7 @@
 ## Informasi Submisi
 - **Nama:** Jeremi Christian
 - **NIM:** 26/577124/SV/27752
-- **Link Video Demo (YouTube):**(https://youtube.com/shorts/UIpY6-ETXvs?si=NBeKcKc5AaSywxGF)
+- **Link Video Demo (YouTube):**[Lihat Video Demo YouTube Shorts](https://youtube.com/shorts/UIpY6-ETXvs?si=NBeKcKc5AaSywxGF)
 ---
 
 ## 1. Ringkasan Fitur
